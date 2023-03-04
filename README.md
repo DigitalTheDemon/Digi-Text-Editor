@@ -1,5 +1,7 @@
 # Digi-Text-Editor
 A text editor for coding, just made it as a fun project.
 
-
-Download and run the file. (just that simple)
+Steps:
+1.  Download the Digi-TextEditor.zip
+2.  Exract the file
+3.  Run the RUNME.exe
